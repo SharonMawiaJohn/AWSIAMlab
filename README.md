@@ -343,4 +343,4 @@ Your feedback is welcome and appreciated.
 
 If you would like to share any suggestions or corrections, please provide the details in the AWS Training and Certification Contact Form.
 
-©2024 Amazon Web Services, Inc. and its affiliates. All rights reserved. This work may not be reproduced or redistributed, in whole or in part, without prior written permission from Amazon Web Services, Inc. Commercial copying, lending, or selling is prohibited..
+©2024 Amazon Web Services, Inc. and its affiliates. All rights reserved. This work may not be reproduced or redistributed, in whole or in part, without prior written permission from Amazon Web Services, Inc. Commercial copying, lending, or selling is prohibited...
