@@ -218,7 +218,7 @@ Least privilege principle
 Testing permissions via IAM login portal
 
 ✅ What to do now:
-Go back to AWS Academy Student Lab Portal
+Go back to AWS Academy Student Lab Portal.
 
 Click "End Lab" to stop resources and avoid charges.
 
