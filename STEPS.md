@@ -215,7 +215,7 @@ Attaching AWS managed policies
 
 Least privilege principle
 
-Testing permissions via IAM login portal
+Testing permissions via IAM login portal.
 
 ✅ What to do now:
 Go back to AWS Academy Student Lab Portal.
