@@ -220,6 +220,6 @@ Testing permissions via IAM login portal
 ✅ What to do now:
 Go back to AWS Academy Student Lab Portal
 
-Click "End Lab" to stop resources and avoid charges
+Click "End Lab" to stop resources and avoid charges.
 
 Take a screenshot of the completed lab page if required by your instructor.
