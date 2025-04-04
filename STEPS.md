@@ -211,7 +211,7 @@ user-3 (S3-Support): Read-only S3 access.
 🧠 What You’ve Learned
 IAM users vs groups
 
-Attaching AWS managed policies
+Attaching AWS managed policies.
 
 Least privilege principle.
 
