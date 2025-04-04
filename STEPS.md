@@ -213,7 +213,7 @@ IAM users vs groups
 
 Attaching AWS managed policies
 
-Least privilege principle
+Least privilege principle.
 
 Testing permissions via IAM login portal.
 
