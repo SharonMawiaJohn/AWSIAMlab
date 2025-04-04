@@ -209,7 +209,7 @@ user-2 (EC2-Support): Read-only EC2 access.
 user-3 (S3-Support): Read-only S3 access.
 
 🧠 What You’ve Learned
-IAM users vs groups
+IAM users vs groups.
 
 Attaching AWS managed policies.
 
